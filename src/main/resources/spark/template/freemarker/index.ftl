@@ -16,7 +16,9 @@
                 <div class="col-md-6">
                     <h3>Posts</h3>
                     <ul>
-                        <li><a href="/posts/hello_world/">Hello World</a></li>
+                        <li><a href="/posts/hello_world/">Hello World</a>
+                            <a href="/posts/lambda_claculus">Scheme and lambda calculus, or “How to become a Wizard”</a>
+                        </li>
                     </ul>
             </div>
           </div>
