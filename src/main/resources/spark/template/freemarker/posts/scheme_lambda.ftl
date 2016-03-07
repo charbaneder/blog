@@ -6,7 +6,7 @@
     <body>
         <#include "../nav.ftl">
         <div class="container">
-            <div class="row">
+            <div class="row box">
                 <h3>shceme lambda</h3>
                 <p>This is a blog post!</p>
             </div>

@@ -9,7 +9,9 @@
           <ul class="dropdown-menu" role="menu">
             <li>
             <a href="/posts/hello_world/">Hello World</a>
-            
+            </li>
+            <li>
+            <a href="/posts/scheme_lambda">Scheme and lambda calculus, or “How to become a Wizard”</a>
             </li>
           </ul>
       </li>

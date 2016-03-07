@@ -4,22 +4,26 @@
         <#include "header.ftl">
     </head>
     <body>
+
         <#include "nav.ftl">
         <div class="jumbotron text-center">
             <div class="container">
                 <h1>Blog</h1>
-                <p>This is a skeleton blog site written in Java (with Spark).</p>
+                <p>Blah blah blah blah blah bah</p>
             </div>
         </div>
         <div class="container">
             <div class="row">
-                <div class="col-md-6">
-                    <h3>Posts</h3>
-                    <ul>
-                        <li><a href="/posts/hello_world/">Hello World</a>
-                            <a href="/posts/lambda_claculus">Scheme and lambda calculus, or “How to become a Wizard”</a>
-                        </li>
-                    </ul>
+                <h3 class="box">Posts</h3>
+                <ul>
+                    <li class="box">
+                        <a href="/posts/hello_world/">Hello World</a>
+                    </li>
+                    <li class="box">
+                        <a href="/posts/scheme_lambda">Scheme and lambda calculus, or “How to become a Wizard”</a>
+                    </li>
+                </ul>
+                
             </div>
           </div>
         </div>
